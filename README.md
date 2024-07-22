@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raresmac
-- I mostly recreate classic games or upload university homework
+- Find a bit of everything
 
 <!---
 raresmac/raresmac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
